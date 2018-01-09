@@ -1,2 +1,2 @@
 # ai_exp_mod
-AI experiment mod
+Arma AI experiment mod
